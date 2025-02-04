@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isosceles_Triangle", "Isosceles_Triangle.csproj", "{28EABC26-7462-46DA-8CF1-81BFBD9F424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutation_Testing", "..\Mutation_Testing\Mutation_Testing.csproj", "{6685ABE3-C8A1-4EE4-AFBC-EC7FDCEEF5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EABC26-7462-46DA-8CF1-81BFBD9F424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EABC26-7462-46DA-8CF1-81BFBD9F424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EABC26-7462-46DA-8CF1-81BFBD9F424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EABC26-7462-46DA-8CF1-81BFBD9F424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6685ABE3-C8A1-4EE4-AFBC-EC7FDCEEF5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6685ABE3-C8A1-4EE4-AFBC-EC7FDCEEF5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6685ABE3-C8A1-4EE4-AFBC-EC7FDCEEF5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6685ABE3-C8A1-4EE4-AFBC-EC7FDCEEF5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
